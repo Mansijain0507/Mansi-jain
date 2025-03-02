@@ -36,7 +36,7 @@ AI-powered PCOS prediction & awareness web app
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MansiJain0507&theme=radical" alt="GitHub Streak" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MansiJain0507&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MansiJain0507&layout=compact&theme=radical" alt="Most Used Languages" /> &nbsp;&nbsp;&nbsp;   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MansiJain0507&theme=radical" alt="GitHub Streak" />
 </p>
 
 <h2 align="center">📫 Let's Connect!  </h2>
