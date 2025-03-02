@@ -20,7 +20,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50"/> &nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50"/> &nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50"/> &nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50"/> &nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="50"/>
 
 ### **Tools & Platforms**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50"/> &nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="50"/>
+<img src="https://camo.githubusercontent.com/dbe4ba9617b5f2b9c3c12682ab9b2c687078af1cd25a2f545461157d8e1e7401/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974687562" alt="GitHub" width="50"/> &nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="50"/>
 
 ---
 
@@ -34,7 +34,6 @@ ML-powered recipe suggestion app using Edamam API
 🔗 https://github.com/Mansijain0507/pcos-prediction | 🌐 https://pcos-prediction-mansijain0507s-projects.vercel.app/ 
 AI-powered PCOS prediction & awareness web app  
 
----
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MansiJain0507&theme=radical" alt="GitHub Streak" />
@@ -58,6 +57,5 @@ AI-powered PCOS prediction & awareness web app
   </a>
 </p>
 
----
 
 ✨ *Feel free to explore my projects and reach out for collaboration!* 🚀  
