@@ -35,8 +35,8 @@ ML-powered recipe suggestion app using Edamam API
 AI-powered PCOS prediction & awareness web app  
 
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MansiJain0507&theme=radical" alt="GitHub Streak" /> &nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MansiJain0507&layout=compact&theme=radical" alt="Most Used Languages" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MansiJain0507&theme=radical" alt="GitHub Streak" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MansiJain0507&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
 <h2 align="center">📫 Let's Connect!  </h2>
